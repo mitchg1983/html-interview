@@ -1,0 +1,26 @@
+div {
+    border-style: solid;
+    border-color: blue;
+    padding: 25px;
+    box-shadow: 5px black;
+    background-color: gray;
+}
+
+h1 {
+    margin: 10px 25px;
+    font: 25px bold "Verdana";
+}
+
+img {
+    margin: 15px 25px;
+    border-radius: 50px;
+}
+
+li {
+    margin: 10px;
+    font-style:italic;
+}
+
+body {
+    background-image: url(dumlao.jpg);
+}
